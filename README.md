@@ -79,7 +79,7 @@ VS CODE, Dev Dependencies (Linters), npm Package Manager, Webpack and Jest (for 
 Able to perform calculator operations and navigate through available links 
 
 ### Run tests
-Add  and update likes and comments and see whether likes are increasing and comments are added and displayed.
+Able to perform calculator operations and navigate through available links 
 
 ### Deployment
 The Project has been deployed in the link below.
