@@ -22,7 +22,7 @@ export default function Calculator() {
         <button type="button" onClick={() => handleClick('AC')}>AC</button>
         <button type="button" onClick={() => handleClick('+/-')}>+/-</button>
         <button type="button" onClick={() => handleClick('%')}>%</button>
-        <button className="operators" type="button" onClick={() => handleClick('÷')}>÷</button>
+        <button className="operators" type="button" onClick={() => handleClick('÷')}>&divide;</button>
         <button type="button" onClick={() => handleClick('7')}>7</button>
         <button type="button" onClick={() => handleClick('8')}>8</button>
         <button type="button" onClick={() => handleClick('9')}>9</button>
