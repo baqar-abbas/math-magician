@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import calculate from './logic/calculate';
-// import ChildComponent from './ChildComponent';
 
 export default function Calculator() {
   const [calculatorData, setCalculatorData] = useState({
@@ -40,7 +39,6 @@ export default function Calculator() {
         <button type="button" onClick={() => handleClick('.')}>.</button>
         <button className="operators" type="button" onClick={() => handleClick('=')}>=</button>
       </div>
-      {/* <ChildComponent /> */}
     </div>
   );
 }
