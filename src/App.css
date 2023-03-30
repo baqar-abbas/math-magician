@@ -46,3 +46,8 @@
 .operators {
   background-color: chocolate !important;
 }
+
+.quote {
+  width: 30rem;
+  margin-left: 0.3rem;
+}
