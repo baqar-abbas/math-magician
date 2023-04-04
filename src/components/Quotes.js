@@ -31,6 +31,7 @@ export default function Quotes() {
     <div className="quote">
       <span>{isLoading ? 'Loading ...' : ''}</span>
       <span>{error || ''}</span>
+      <h2>Quote of the Day</h2>
       {quote}
     </div>
   );
