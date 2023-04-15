@@ -48,7 +48,7 @@ HTML CSS JavaScript React and redux
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-- [Live Demo](https://storied-choux-e9885d.netlify.app/)
+- [Live Demo](https://mathmagicreactbaqar.netlify.app/)
 
 
 
